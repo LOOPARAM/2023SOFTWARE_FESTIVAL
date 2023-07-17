@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "638723722447",
+    "project_id": "sw-contest-c3dee",
+    "storage_bucket": "sw-contest-c3dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638723722447:android:c36eb6b2f180db57b33bba",
+        "android_client_info": {
+          "package_name": "com.example.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638723722447-d3hj8r8kobcgnpqroueqf0ar9o2diudm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.school",
+            "certificate_hash": "67552626ae0cc5fa33cada5183aa4f139fe34c8f"
+          }
+        },
+        {
+          "client_id": "638723722447-k35m0l4re2r6j5ueg6hsunobatmd6tes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGF4pEUOQRsUri4LQH1xShomFir8zv8J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638723722447-k35m0l4re2r6j5ueg6hsunobatmd6tes.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638723722447-vdq5sa0mug28lhviutqj1u39rcu23q4l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.schoo-contest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
